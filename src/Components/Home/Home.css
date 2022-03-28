@@ -1,0 +1,42 @@
+.main_div{
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+
+}
+.top_headings{
+    color: #000;
+    padding-top: 1px;
+    font-size: 50px;
+    margin-top: 0px;
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    height: 60vh;
+}
+.btn{
+    margin-top:8%;
+    justify-content: center;
+    display: flex;
+}
+.btn_design{
+    width: 30%;
+    height: 10vh;
+    margin-left: 5%;
+}
+.student_btn{
+    background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: none;
+    width: 40%;
+    height: 8vh;
+}
+.faculty_btn{
+    background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: none;
+    width: 40%;
+    height: 8vh;
+}

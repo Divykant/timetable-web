@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #000;
+}
+.main_div{
+    background-color: rgb(255, 255, 255);
+}
+.year_heading{
+    
+    font-size: 70px;
+}
+.year_div{
+    display: flex;
+}
+.section_div{
+    margin: 2%;
+    width: 45%;
+}
+.section_heading{
+    margin-bottom: 30px;
+}
+.tt_img{
+    width:95%;
+    height: 60vh;
+    border: 8px solid rgb(26, 202, 255);
+    padding: 15px;
+}
